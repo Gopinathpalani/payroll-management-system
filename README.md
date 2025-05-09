@@ -1,2 +1,2 @@
 ﻿# Initial Commit
-![Login page](images/screenshot.png.png)
+![Login page](main/Screenshot.png.png)
